@@ -22,7 +22,7 @@ resource "aws_instance" "myec2" {
 }
 ```
 
-######## Terraform Final Modified Configuration File
+### Terraform Final Modified Configuration File
 ```sh
 provider "aws" {
   region     = "us-west-2"
